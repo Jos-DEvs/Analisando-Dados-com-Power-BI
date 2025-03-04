@@ -1,1 +1,1 @@
-É isso aí
+Apresentação do diagrama estrela pelo Power BI.
